@@ -1,0 +1,30 @@
+---
+import Features from '~/components/widgets/Features.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Content from '~/components/widgets/Content.astro';
+
+const metadata = {
+  title: 'DJ Services',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Content
+    title="DJ Services"
+    subtitle=""
+    isReversed
+    image={{
+      src: 'https://www.denismayer.com/content/images/2022/04/IMG_2031.jpeg',
+      alt: 'Denis Mayer DJ Services',
+    }}
+  >
+    <Fragment slot="content">
+      Based in Rockland, NY, Denis Mayer DJ Services is available for clubs, parties, and special occasions.   We cover
+      all genres including: * House * EDM * Pop * Hip hop * Alternative * Classic Rock * And more... If interesting in
+      booking our services, [please contact us](/contact).
+    </Fragment>
+  </Content>
+</Layout>
