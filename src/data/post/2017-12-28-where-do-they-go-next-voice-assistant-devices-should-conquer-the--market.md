@@ -1,16 +1,16 @@
 ---
 title: Where Do They Go Next? Voice Assistant Devices Should Conquer the ________ Market
 postSlug: where-to-next-voice-assistants-should-conquer-the-blank
-pubDatetime: 2017-12-28 01:47:08
-ogImage: ../../assets/images/2020/12/Voice-Assistant-Blog-Header-1.png
+publishDate: 2017-12-28 01:47:08
+image: https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/Voice-Assistant-Blog-Header-1.png
 featured: false
 draft: false
 tags:
   - relevant-tag
-description:
-  Placeholder description for imported post from Ghost Blog 
+description: Placeholder description for imported post from Ghost Blog
 ---
-![Featured Image](../../assets/images/2020/12/Voice-Assistant-Blog-Header-1.png)
+
+[Featured Image](<[../../assets/images/2020/12/Voice-Assistant-Blog-Header-1.png](https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/Voice-Assistant-Blog-Header-1.png)>)
 
 As 2017 comes to an end, it looks like another successful year for voice assistant devices targeted for use in the home. Unit sales for the Amazon Echo and Google Home are estimated to be in the [millions](http://www.businessinsider.com/jeff-bezos-amazon-alexa-quote-2017-10).
 
@@ -24,11 +24,11 @@ As the competition for the household becomes entrenched, late entrants need to s
 
 We need to think of places that have the same qualities as the household:
 
-*   A voice interface is the preferred method compared to touching a screen. (Why get off the couch?)
-*   You have the undivided attention of the user for long periods of time.
-*   It's easier to place a standalone device into the environment compared to integrating with existing service providers or technologies.
-*   We need a large number of places to put these devices (think in the tens of millions).
-*   And most of all, none of the existing competitors have grabbed market share in these locations just yet!
+- A voice interface is the preferred method compared to touching a screen. (Why get off the couch?)
+- You have the undivided attention of the user for long periods of time.
+- It's easier to place a standalone device into the environment compared to integrating with existing service providers or technologies.
+- We need a large number of places to put these devices (think in the tens of millions).
+- And most of all, none of the existing competitors have grabbed market share in these locations just yet!
 
 So where is this magical place?
 
@@ -41,12 +41,12 @@ There is a huge problem with the way automobiles and mobile devices work togethe
 1.  There are too many distracted drivers on the road today. Distracted driving claimed 3,477 lives in 2015 alone.
 2.  People do not unplug - even with new laws and all the public safety messages, people are still holding and touching their phones will driving.
 3.  Mobile phones were not designed for safe use in the car:
-    *   Mobile phones have screens which cause people to take their eyes off the road (large or small screens, makes no difference).
-    *   Mobile phones have keyboards and touch interfaces that require precision accuracy to make them work.
-    *   Siri and the Google Assistant on your phone require button pressing and dont have the same quality microphones as a voice assistant devices do.
+    - Mobile phones have screens which cause people to take their eyes off the road (large or small screens, makes no difference).
+    - Mobile phones have keyboards and touch interfaces that require precision accuracy to make them work.
+    - Siri and the Google Assistant on your phone require button pressing and dont have the same quality microphones as a voice assistant devices do.
 4.  Millions of cars do not have the technology to make mobile device usage safer.
-    *   Bluetooth is becoming more and more available but still missing in older cars. Plus, it's really hard to retrofit a car without it.
-    *   Newer model cars now have voice recognition but that's only in the last four years and usually costs $300 dollars or more.
+    - Bluetooth is becoming more and more available but still missing in older cars. Plus, it's really hard to retrofit a car without it.
+    - Newer model cars now have voice recognition but that's only in the last four years and usually costs $300 dollars or more.
 5.  Existing car technologies like Apple CarPlay and Android Auto are designed to work with built-in automobile screens. Plus, they were initially designed before voice assistance devices really took off.
 6.  And most importantly, it will take at least 10 years before most cars have either an Android Auto or Apple CarPlay built-in.
 
@@ -54,10 +54,10 @@ There is a huge problem with the way automobiles and mobile devices work togethe
 
 Just read the latest US Census and industry research data and you will see that there is a large number of vehicles where standalone voice assistant devices could be targeted:
 
-*   As of 2016, there are 263 million cars in the US and over 1.2 billion cars globally according to a recent [IHS Market survey](http://news.ihsmarkit.com/press-release/automotive/vehicles-getting-older-average-age-light-cars-and-trucks-us-rises-again-201).
-*   One out of every four vehicles in the U.S. were built before the year 2000 (around 65 million). That's way before Bluetooth, Apple Carplay or Android Auto were introduced. And that number does not consider the cars sold after 2000 that still do not have these technologies installed.
-*   The average car age is 11.4 years old.
-*   The US Census's [2015 American Community Survey](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk) shows that the average American commute crept up to 26.4 minutes in 2015. That's a lot of time in the car each day.
+- As of 2016, there are 263 million cars in the US and over 1.2 billion cars globally according to a recent [IHS Market survey](http://news.ihsmarkit.com/press-release/automotive/vehicles-getting-older-average-age-light-cars-and-trucks-us-rises-again-201).
+- One out of every four vehicles in the U.S. were built before the year 2000 (around 65 million). That's way before Bluetooth, Apple Carplay or Android Auto were introduced. And that number does not consider the cars sold after 2000 that still do not have these technologies installed.
+- The average car age is 11.4 years old.
+- The US Census's [2015 American Community Survey](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk) shows that the average American commute crept up to 26.4 minutes in 2015. That's a lot of time in the car each day.
 
 **Voice assistance devices can be quickly designed for the car**
 

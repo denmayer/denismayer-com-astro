@@ -1,6 +1,4 @@
 ---
-import Features from '~/components/widgets/Features.astro';
-import Hero from '~/components/widgets/Hero.astro';
 import Layout from '~/layouts/PageLayout.astro';
 import Content from '~/components/widgets/Content.astro';
 
@@ -22,11 +20,33 @@ const metadata = {
       src: djMixerImage,
       alt: 'DJ Services',
     }}
+    items={[
+      {
+        title: 'EDM',
+      },
+      {
+        title: 'House',
+      },
+      {
+        title: 'Pop',
+      },
+      {
+        title: 'Hip Hop',
+      },
+      {
+        title: 'Alternative',
+      },
+      {
+        title: 'Classic Rock',
+      },
+      {
+        title: 'And more...',
+      },
+    ]}
   >
     <Fragment slot="content">
       Based in Rockland, NY, Denis Mayer DJ Services is available for clubs, parties, and special occasions.   We cover
-      all genres including: * House * EDM * Pop * Hip hop * Alternative * Classic Rock * And more... If interesting in
-      booking our services, [please contact us](/contact).
+      all genres including:
     </Fragment>
   </Content>
 </Layout>

@@ -85,6 +85,10 @@
   @apply rotate-45 translate-y-[-8px] translate-x-[14px];
 }
 
+.force-center {
+  align-items: center;
+  justify-content: center;
+}
 /* To deprecated */
 
 .dd *:first-child {

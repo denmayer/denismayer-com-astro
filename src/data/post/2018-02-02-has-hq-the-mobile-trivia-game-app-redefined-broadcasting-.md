@@ -2,7 +2,7 @@
 title: Has HQ, The Mobile Trivia Game App, Redefined Broadcasting?
 postSlug: hq_redefining_broadcasting
 publishDate: 2018-02-02 14:16:00
-ogImage: ../../assets/images/2020/12/hq_logo.png
+image: https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/hq_logo.png
 featured: false
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
 description: Placeholder description for imported post from Ghost Blog
 ---
 
-![Featured Image](../../assets/images/2020/12/hq_logo.png)
+![HQ Logo](https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/hq_logo.png)
 
 **What is HQ?**
 
