@@ -47,6 +47,11 @@ export const footerData = {
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/i_am_denis_mayer/' },
     { ariaLabel: 'Medium', icon: 'tabler:brand-medium', href: 'https://medium.com/@denismayer' },
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/denmayer' },
+    {
+      ariaLabel: 'Spotify',
+      icon: 'tabler:brand-spotify',
+      href: 'https://open.spotify.com/user/denismayer',
+    },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   ],
   footNote: `
