@@ -1,6 +1,5 @@
 ---
 import Layout from '~/layouts/PageLayout.astro';
-import { getPermalink } from '~/utils/permalinks';
 import Content from '~/components/widgets/Content.astro';
 
 const metadata = {
@@ -44,6 +43,14 @@ const metadata = {
           target: '_blank',
           text: 'X',
           href: 'https://x.com/denismayer',
+        },
+      },
+      {
+        icon: 'tabler:brand-github',
+        callToAction: {
+          target: '_blank',
+          text: 'GitHub',
+          href: 'https://github.com/denmayer',
         },
       },
     ]}

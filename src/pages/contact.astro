@@ -1,46 +1,26 @@
 ---
 import Layout from '~/layouts/PageLayout.astro';
-import HeroText from '~/components/widgets/HeroText.astro';
-import ContactUs from '~/components/widgets/Contact.astro';
-import Content from '~/components/widgets/Content.astro';
+import Headline from '~/components/ui/Headline.astro';
+import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 
 const metadata = {
   title: 'Contact',
 };
+
+const { isDark = false, bg = await Astro.slots.render('bg') } = Astro.props;
 ---
 
 <Layout metadata={metadata}>
-  <!-- HeroText Widget ******************* -->
-
-  <HeroText tagline="Contact" title="Let's Connect!" />
-
-  <!-- Content Widget **************** -->
-  <Content
-    id="ContactUs"
-    classes={{
-      container: 'force-center',
-    }}
-  >
-    <Fragment
-      slot="content"
-      classes={{
-        container: 'force-center',
-      }}
+  <WidgetWrapper id="contact" isDark={isDark} containerClass={`max-w-7xl mx-auto`} bg={bg}>
+    <Headline title="Contact Us" />
+    <iframe
+      allowtransparency="true"
+      style="min-height:1000px; height:inherit; overflow:auto;"
+      width="100%"
+      id="contactform123"
+      name="contactform123"
+      src="https://form.123formbuilder.com/my-contact-form-3172452.html?customVars123=yes&hasEmbedFormStyle=1"
     >
-      <iframe
-        allowTransparency="true"
-        style="min-height:1000px; height:inherit; overflow:auto;"
-        width="100%"
-        id="contactform123"
-        name="contactform123"
-        marginwidth="0"
-        marginheight="0"
-        frameborder="0"
-        src="https://form.123formbuilder.com/my-contact-form-3172452.html?customVars123=yes&hasEmbedFormStyle=1"
-      >
-        <p>Your browser does not support iframes. The contact form cannot be displayed. Please use another contact
-        method (phone, fax etc)</p>
-      </iframe>
-    </Fragment>
-  </Content>
+    </iframe>
+  </WidgetWrapper>
 </Layout>

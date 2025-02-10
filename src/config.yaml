@@ -1,6 +1,6 @@
 site:
   name: 'Denis Mayer'
-  site: 'https://denismayer-com.vercel.app'
+  site: 'https://www.denismayer.com'
   base: '/'
   trailingSlash: false
 
