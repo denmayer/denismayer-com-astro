@@ -1,16 +1,18 @@
 ---
 title: Has HQ, The Mobile Trivia Game App, Redefined Broadcasting?
-postSlug: hq_redefining_broadcasting
+slug: hq_redefining_broadcasting
 publishDate: 2018-02-02 14:16:00
 image: https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/hq_logo.png
 featured: false
 draft: false
 tags:
-  - relevant-tag
+  - HQ
+  - Strategy
+  - Product Management
 description: Placeholder description for imported post from Ghost Blog
+metadata:
+  canonical: https://www.denismayer.com/hq_redefining_broadcasting
 ---
-
-![HQ Logo](https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/hq_logo.png)
 
 **What is HQ?**
 
@@ -69,47 +71,15 @@ Today, it appears that HQ is not generating revenue. There is no fee for players
 
 But like any business, HQ does incur costs. Here's a rough estimate of the costs:
 
-Cost Type
-
-Estimated Annual Cost (in US dollars)
-
-Prize Money 
-
-(as of Jan 2018)
-
-$2,340,000
-
-Labor
-
-(including software engineers, researchers, design and production people and game show hosts to tell the jokes)
-
-$1,650,000
-
-3rd Party Software Licensing
-
-(assuming HQ is using existing video software like AWS Elemental)
-
-$300,000
-
-Network Bandwidth
-
-(assuming $.01 per phone per show, 1M phones per show, 624 shows per year)
-
-$7,488,000
-
-Sub total
-
-$11,728,000
-
-Misc Business Expenses
-
-(15% of the sub total)
-
-$1,177,000
-
-Estimated Annual Cost
-
-$12,955,000
+| Cost Type                                                                                                                 | Estimated Annual Cost (in US dollars) |
+| :------------------------------------------------------------------------------------------------------------------------ | ------------------------------------: |
+| **Prize Money** (as of Jan 2018)                                                                                          |                            $2,340,000 |
+| **Labor** (including software engineers, researchers, design and production people and game show hosts to tell the jokes) |                            $1,650,000 |
+| **3rd Party Software Licensing** (assuming HQ is using existing video software like AWS Elemental)                        |                              $300,000 |
+| **Network Bandwidth** (assuming $.01 per phone per show, 1M phones per show, 624 shows per year)                          |                            $7,488,000 |
+| **Sub Total**                                                                                                             |                           $11,728,000 |
+| **Misc Business Expenses** (15% of the sub total)                                                                         |                            $1,177,000 |
+| **Estimated Annual Cost**                                                                                                 |                           $12,955,000 |
 
 A conservative estimate is that HQ will need about $13 million dollars per year to continue operating.
 

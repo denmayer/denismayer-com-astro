@@ -1,16 +1,17 @@
 ---
 title: Where Do They Go Next? Voice Assistant Devices Should Conquer the ________ Market
-postSlug: where-to-next-voice-assistants-should-conquer-the-blank
+slug: where-to-next-voice-assistants-should-conquer-the-blank
 publishDate: 2017-12-28 01:47:08
 image: https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/Voice-Assistant-Blog-Header-1.png
 featured: false
 draft: false
 tags:
-  - relevant-tag
+  - Voice Assistant Devices
+  - Alexa
+  - Google Home
+  - Apple Homepod
 description: Placeholder description for imported post from Ghost Blog
 ---
-
-[Featured Image](<[../../assets/images/2020/12/Voice-Assistant-Blog-Header-1.png](https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/Voice-Assistant-Blog-Header-1.png)>)
 
 As 2017 comes to an end, it looks like another successful year for voice assistant devices targeted for use in the home. Unit sales for the Amazon Echo and Google Home are estimated to be in the [millions](http://www.businessinsider.com/jeff-bezos-amazon-alexa-quote-2017-10).
 

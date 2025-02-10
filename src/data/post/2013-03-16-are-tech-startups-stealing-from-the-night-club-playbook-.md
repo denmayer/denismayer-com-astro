@@ -1,16 +1,14 @@
 ---
 title: Are Tech Startups Stealing from the Night Club Playbook?
-postSlug: are-tech-startups-stealing-from-the-night-club-playbook
+slug: are-tech-startups-stealing-from-the-night-club-playbook
 publishDate: 2013-03-15 20:47:25
 image: https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/studio54line-1.jpg
 featured: false
 draft: false
-tags:
-  - relevant-tag
 description: Placeholder description for imported post from Ghost Blog
 ---
 
-![The line at Studio 54 – the king of night clubs](https://denismayer-com-images.s3.us-east-1.amazonaws.com/images/2020/12/studio54line-1.jpg)
+<h5>The line at Studio 54 – the king of night clubs</h5>
 
 Years ago, I use to promote a number of night clubs in New York.  One trick I learned from the successful night club owners was to create a line outside even though there was no body inside.
 
