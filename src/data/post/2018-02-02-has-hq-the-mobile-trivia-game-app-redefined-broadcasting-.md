@@ -18,8 +18,6 @@ metadata:
 
 HQ is a trivia game where you answer trivia questions to win a cash prize. The trivia questions cover a range of topics including sports, entertainment, pop culture, geography, health, vocabulary and more. If you get any of the questions wrong, you are out of the game. If you answer all the questions right, you and the other winners split the prize.
 
-![hq_app_screens](../../assets/images/202/12/hq_app_screens.png)
-
 HQ is a mobile app that you download from the [Apple AppStore](https://itunes.apple.com/us/app/hq-live-trivia-game-show/id1232278996?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=com.intermedia.hq&hl=en). After downloading the app, you create a user account and play the game at 3 PM ET weekdays and at 9 PM ET everyday.
 
 Depending on the day, the prize can be either $2,500 or $15,000 dollars. As the game grows in popularity, HQ has been raising the cash prize.
